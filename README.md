@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com por Thiago Mendes
+Feito por Thiago Mendes
